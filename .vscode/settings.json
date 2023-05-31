@@ -1,6 +1,10 @@
 {
     "files.associations": {
         "*.ejs": "html",
-        "utility": "cpp"
+        "utility": "cpp",
+        "iostream": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "set": "cpp"
     }
 }
