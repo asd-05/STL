@@ -5,6 +5,10 @@
         "iostream": "cpp",
         "map": "cpp",
         "unordered_map": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "xstring": "cpp",
+        "random": "cpp",
+        "xutility": "cpp",
+        "algorithm": "cpp"
     }
 }
